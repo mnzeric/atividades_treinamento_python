@@ -1,0 +1,2 @@
+Abrir o arquivo iris.csv e gerar quatro arquivos, sendo um arquivo geral com o cabeçalho e médias dos parâmetros das flores agrupados por espécie, e um arquivo para cada espécie contendo o cabeçalho e as médias da respectiva espécie.   
+Os arquivos devem utilizar o separador pipe "|". Fazer sem utilizar nenhuma biblioteca auxiliar.

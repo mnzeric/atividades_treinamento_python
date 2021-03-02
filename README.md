@@ -1,0 +1,1 @@
+Atividades realizadas durante meu treinamento de python
